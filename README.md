@@ -18,7 +18,7 @@ Build the back end for an e-commerce site. You’ll take a working Express.js AP
 
 Github: https://github.com/Strongie/ERetailer#project-description
 
-Video: 
+Video: https://drive.google.com/file/d/1xtXIH5x0RjplA05a5VFqvSm08BA6eONR/view
 
 
 ## User Story
